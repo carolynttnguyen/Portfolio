@@ -1,0 +1,13 @@
+
+body {
+    background-image: url(cherry.JPG);
+}
+
+h1,h2,h5, ul,nav {
+    color: #9C1348;
+    font-family: 'Satisfy', cursive;
+}
+
+p{
+    font-family: 'Shadows Into Light Two', cursive;
+}
